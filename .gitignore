@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+.DS_Store
+
+# nxtlinq-attest: never commit private key
+nxtlinq/private.key
+
+# generated CSV output
+output/

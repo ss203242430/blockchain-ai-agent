@@ -1,0 +1,32 @@
+{
+  "name": "blockchain-ai-agent",
+  "version": "1.0.0",
+  "description": "Blockchain AI Agent: read tokenURI and metadata with attested scope (nxtlinq-attest plugin)",
+  "type": "module",
+  "main": "dist/agent.js",
+  "bin": {
+    "blockchain-ai-agent": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "agent": "node dist/cli.js",
+    "attest:init": "nxtlinq-attest init",
+    "attest:sign": "nxtlinq-attest sign",
+    "attest:verify": "nxtlinq-attest verify",
+    "attest:scope": "nxtlinq-attest scope"
+  },
+  "keywords": ["nft", "metadata", "agent", "blockchain", "erc721", "erc1155"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@nxtlinq/attest": "^1.0.0",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.0.0"
+  }
+}

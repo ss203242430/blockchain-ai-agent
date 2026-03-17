@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-ai-agent",
+  "version": "1.0.0",
+  "scope": [
+    "tool:GetTokenURI",
+    "tool:ReadNFTMetadata",
+    "tool:GetTransaction",
+    "tool:FormatAsCSV"
+  ],
+  "issuedAt": 1773729592,
+  "publicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEACheE4BeaoVbBU32Cq36pH4oxOY/lB7xh4lRv6ig77vI=\n-----END PUBLIC KEY-----",
+  "contentHash": "0619b8c590dddd2a699a5d8bfca5db0a7c406c45966beb43cc037aadf7bd4dbc",
+  "artifactHash": "cfd596947b6a58156f95424cc78fe761bbc75f073f28d61e239e681c485903e3",
+  "attestCliVersion": "1.0.0",
+  "artifactFileCount": 16
+}
