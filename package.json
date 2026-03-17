@@ -16,13 +16,20 @@
     "attest:verify": "nxtlinq-attest verify",
     "attest:scope": "nxtlinq-attest scope"
   },
-  "keywords": ["nft", "metadata", "agent", "blockchain", "erc721", "erc1155"],
+  "keywords": [
+    "nft",
+    "metadata",
+    "agent",
+    "blockchain",
+    "erc721",
+    "erc1155"
+  ],
   "license": "MIT",
   "engines": {
     "node": ">=22"
   },
   "dependencies": {
-    "@nxtlinq/attest": "^1.0.0",
+    "@nxtlinq/attest": "^1.0.1",
     "openai": "^4.77.0"
   },
   "devDependencies": {

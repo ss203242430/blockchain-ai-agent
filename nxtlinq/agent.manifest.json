@@ -7,10 +7,10 @@
     "tool:GetTransaction",
     "tool:FormatAsCSV"
   ],
-  "issuedAt": 1773729592,
+  "issuedAt": 1773734908,
   "publicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEACheE4BeaoVbBU32Cq36pH4oxOY/lB7xh4lRv6ig77vI=\n-----END PUBLIC KEY-----",
-  "contentHash": "0619b8c590dddd2a699a5d8bfca5db0a7c406c45966beb43cc037aadf7bd4dbc",
-  "artifactHash": "cfd596947b6a58156f95424cc78fe761bbc75f073f28d61e239e681c485903e3",
-  "attestCliVersion": "1.0.0",
+  "contentHash": "9a4f3fe7ae18cc7a4eabfecb570028abf44249d6918070dc623f2807fd7d0ee9",
+  "artifactHash": "87af6ec16cfa7485f64ed0a9cec8c33e5fa918213c43aaa254b682c1d9511205",
+  "attestCliVersion": "1.0.1",
   "artifactFileCount": 16
 }
